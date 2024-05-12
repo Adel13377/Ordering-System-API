@@ -1,14 +1,20 @@
 # Ordering-System-API
 - **Overview**
 - **Technologies Used**
+- **Deployed App**
 - **Installation and setup**
 - **Installation and setup (Using Docker)**
-- **Deployed App**
 - **Features**
 
 ## Overview
 A simplified Order Processing System API for an online store. The system handles order processing, including stock validation, payment processing (integrated with a mock payment gateway), and sending order confirmation emails to customers.
 
+
+## Deployed App:
+  [https://orderingsystem.pythonanywhere.com/](https://orderingsystem.pythonanywhere.com/api/products)
+  #### Postman APIs Documentation to test the deployed API server directly
+  [https://documenter.getpostman.com/view/34868263/2sA3JNaKxV#intro](https://documenter.getpostman.com/view/34868263/2sA3JNaKxV#intro)
+  
 
 
 ## Technologies Used
@@ -43,11 +49,7 @@ A simplified Order Processing System API for an online store. The system handles
    <br> <br>***Note that you can create the Image yourself instead of pulling it by using Dockerfile and use it to create/run a container.***
 
 
-## Deployed App:
-  [https://orderingsystem.pythonanywhere.com/](https://orderingsystem.pythonanywhere.com/) 
-  #### Postman APIs Documentation to test the deployed API server directly
-  [https://documenter.getpostman.com/view/34868263/2sA3JNaKxV#intro](https://documenter.getpostman.com/view/34868263/2sA3JNaKxV#intro)
-  
+
 
 ## Features
 
